@@ -1,68 +1,52 @@
-<!-- Header with animated typing effect -->
+<!-- Animated Header -->
 <h1 align="center">
-  <b>
-    <img 
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Feisal+Abdi+Hassan;💻+Full+Stack+Developer" 
-      alt="Typing SVG" 
-    />
-  </b>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=7B2FF7&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Feisal+Abdi+Hassan;💻+Frontend+Developer;🚀+Passionate+Problem+Solver" 
+    alt="Typing SVG" 
+  />
 </h1>
 
+<p align="center">
+  <b>Building scalable, efficient, and user-friendly web applications.</b>
+</p>
 
 ---
-<h2 align="center"> About Me</h2>
 
-<p align="center">
-  I am a <strong>Full Stack Developer</strong> with a strong foundation in 
-  <strong>Python, React, Node.js, and MySQL</strong>, dedicated to building 
-  <strong>scalable and user-friendly web applications</strong>. My work emphasizes creating 
-  <strong>clean, efficient, and maintainable solutions</strong> that solve real-world problems.
-</p>
+## 🌟 About Me  
 
-<p align="center">
-  With experience across <strong>frontend, backend, and database design</strong>, I specialize in developing 
-  <strong>end-to-end applications</strong> that are both functional and visually engaging. 
-  I am passionate about applying technology to deliver impactful solutions in areas such as 
-  <strong>fintech, property management, and environmental innovation</strong>.
-</p>
-
-<ul>
-  <li>💡 Skilled in modern development stacks (<b>React, Vite, Tailwind, Express, Python</b>)</li>
-  <li>🗄️ Experienced with relational and non-relational databases (<b>MySQL, MongoDB</b>)</li>
-  <li>🚀 Focused on building <b>high-quality applications</b> from concept to deployment</li>
-  <li>📚 Committed to continuous learning and applying <b>best practices</b> in software development</li>
-</ul>
-
+I am a **Frontend Developer** who thrives on solving real-world problems through **clean design**,  
+**modern development practices** and a strong focus on **efficiency and user experience**.  
 
 ---
 
 ## 🚀 Tech Stack  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,react,js,nodejs,express,tailwind,git,github" />
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,express,mysql,mongodb,js,tailwind,git,github&perline=5" />
 </p>
 
 ---
 
 ## 🎨 Featured Projects  
-🔹 **Smartdash** – smart dashboard 
-🔹 **Smart Goal Planner** – Fintech savings tracker  
-🔹 **Mama Zulekha Store** – Cosmetics e-commerce platform  
-🔹 **EchoTrail** – Real-time environmental reporting app  
+
+- 🔹 **Smartdash** – Interactive smart dashboard for insights and analytics  
+- 🔹 **Smart Goal Planner** – Fintech savings tracker with progress monitoring  
+- 🔹 **Mama Zulekha Store** – Modern cosmetics e-commerce platform  
+- 🔹 **Personal Portfolio** – Showcasing my work, skills, and projects in a modern design  
 
 ---
 
 ## 🤝 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/faisal-abdi-a09907360/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:faisalabdi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:7B2FF7&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FF7,100:00F7FF&height=100&section=footer"/>
 </p>
